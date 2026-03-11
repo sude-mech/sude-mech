@@ -1,14 +1,14 @@
-# Merhaba, ben Sude
-Makine öğrencisiyim ve daha iyi bir ortalama hedefiyle eğitimime devam ediyorum. En büyük amacım Makine mühendisliği disiplinini yazılım ve tasarımla harmanlayarak kendimi sürekli geliştirmek.
+# Hello, I'm Sude
+I'm a mechanical engineering student and I'm continuing my education with the goal of achieving a better grade point average. My main objective is to constantly improve myself by combining the discipline of mechanical engineering with software and design.
 
-### 🛠️ Neler Üzerine Çalışıyorum?
-- **Yazılım:** C ve Python dillerini öğreniyorum.
-- **Çalışmalar:** Şu an büyük çaplı aktif bir projem yok ancak yazılım ve tasarım alanlarında kendimi geliştirmek için ufak çaplı pratikler ve denemeler yapıyorum.
-- **Modelleme & Tasarım:** AutoCAD, SolidWorks ve Blender gibi programlarda kendimi geliştirmeye devam ediyorum.
+### 🛠️ What am I working on?
+- **Software:** I'm learning C and Python.
+- **Projects:** I don't have any large-scale active projects at the moment, but I am doing small-scale practices and experiments to improve myself in the fields of software and design.
+- **Modelling & Design:** I am continuing to improve myself in programmes such as AutoCAD, SolidWorks, and Blender.
 
-### 🌱 İlgi Alanlarım ve Hobilerim
-- Kitap okumak ve bağımsız yazılar kaleme almak.
-- Pek çok farklı disiplinde tasarım yapmak; özellikle **karakter dizaynı** ve **Mixed Media Collage** alanlarında yaratıcı çalışmalar üretmek.
-- Dijital çizim pratikleri yapmak ve yorgunluk atmak için Stardew Valley, bigisayar oyunlarına vakit ayırmak.
+### 🌱 My Interests and Hobbies
+- Reading books and writing independent articles.
+- Designing in many different disciplines; producing creative work, particularly in the areas of **character design** and **Mixed Media Collage**.
+- Practising digital drawing and spending time playing computer games like Stardew Valley to unwind.
 
-📫 **İletişim:** ssudenaz593@gmail.com
+📫 **Contact:** ssudenaz593@gmail.com
